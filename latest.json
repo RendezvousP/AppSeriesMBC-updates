@@ -1,11 +1,11 @@
 {
-  "version": "0.1.5",
-  "notes": "Caesar Serial Guard 0.1.5\n- Chip UI for batch serial import\n- Nhập hàng loạt tab with serial chips and scan input\n- Fixed toggle mode confusion",
-  "pub_date": "2026-04-30T20:50:00.000Z",
+  "version": "0.1.6",
+  "notes": "Caesar Serial Guard 0.1.6\n- Fixed batch product save command registration\n- Product name quick select for repeated imports\n- New badge when an update is available",
+  "pub_date": "2026-05-06T11:16:00.000Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "",
-      "url": "https://rendezvousp.github.io/AppSeriesMBC-updates/downloads/Serial Guard_0.1.5_x64-setup.exe"
+      "url": "https://rendezvousp.github.io/AppSeriesMBC-updates/downloads/Serial Guard_0.1.6_x64-setup.exe"
     }
   }
 }
