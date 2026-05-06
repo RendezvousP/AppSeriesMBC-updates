@@ -1,11 +1,11 @@
 {
-  "version": "0.1.6",
-  "notes": "Caesar Serial Guard 0.1.6\n- Fixed batch product save command registration\n- Product name quick select for repeated imports\n- New badge when an update is available",
-  "pub_date": "2026-05-06T11:16:00.000Z",
+  "version": "0.1.7",
+  "notes": "Caesar Serial Guard 0.1.7\n- Đồng bộ autocomplete Nhà cung cấp, Serial bán ra và Khách hàng theo giao diện sáng/tối\n- Sửa hiển thị số lượng Serial đã thêm ở giao diện sáng",
+  "pub_date": "2026-05-07T02:30:00.000+07:00",
   "platforms": {
     "windows-x86_64": {
       "signature": "",
-      "url": "https://rendezvousp.github.io/AppSeriesMBC-updates/downloads/Serial%20Guard_0.1.6_x64-setup.exe"
+      "url": "https://rendezvousp.github.io/AppSeriesMBC-updates/downloads/Serial%20Guard_0.1.7_x64-setup.exe"
     }
   }
 }
