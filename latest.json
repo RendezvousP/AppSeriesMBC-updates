@@ -1,10 +1,10 @@
 {
-  "version": "0.1.7",
-  "notes": "Caesar Serial Guard 0.1.7\n- Đồng bộ autocomplete Nhà cung cấp, Serial bán ra và Khách hàng theo giao diện sáng/tối\n- Sửa hiển thị số lượng Serial đã thêm ở giao diện sáng",
-  "pub_date": "2026-05-07T02:30:00.000+07:00",
+  "version": "0.1.8",
+  "notes": "Caesar Serial Guard 0.1.8",
+  "pub_date": "2026-05-07T15:49:56.661Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM1BrSU93YjBuWTJjUkgySnJnakRtNG1rcjlhZk95U3ZHZGVSRFhQb0l4VGg2Z3JnalhweDF5TzdCRW5DV1NuNlFXU1BJeUhRV0Vvc2R6NkFZZG41ZXRHcW9zNVM0Z0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTY4OTMzCWZpbGU6U2VyaWFsIEd1YXJkXzAuMS44X3g2NC1zZXR1cC5leGUKY2UzWjVzbm5vZmh0SzlIRmN1VXRQbDZGMDFjdWFDT0phMTB5bmhBVGR0Z3BBWjF2QUl6Y1JiNnV2N0hheDEycWd0SzdtdTgwL20yYjZMSHJkSC9CRGc9PQo=",
       "url": "https://rendezvousp.github.io/AppSeriesMBC-updates/downloads/Serial%20Guard_latest_x64-setup.exe"
     }
   }
