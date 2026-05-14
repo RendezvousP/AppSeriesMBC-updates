@@ -1,10 +1,10 @@
 {
-  "version": "0.1.8",
-  "notes": "Caesar Serial Guard 0.1.8",
-  "pub_date": "2026-05-07T15:49:56.661Z",
+  "version": "0.1.9",
+  "notes": "Caesar Serial Guard 0.1.9",
+  "pub_date": "2026-05-14T12:00:56.089Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM1BrSU93YjBuWTJjUkgySnJnakRtNG1rcjlhZk95U3ZHZGVSRFhQb0l4VGg2Z3JnalhweDF5TzdCRW5DV1NuNlFXU1BJeUhRV0Vvc2R6NkFZZG41ZXRHcW9zNVM0Z0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTY4OTMzCWZpbGU6U2VyaWFsIEd1YXJkXzAuMS44X3g2NC1zZXR1cC5leGUKY2UzWjVzbm5vZmh0SzlIRmN1VXRQbDZGMDFjdWFDT0phMTB5bmhBVGR0Z3BBWjF2QUl6Y1JiNnV2N0hheDEycWd0SzdtdTgwL20yYjZMSHJkSC9CRGc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM1BrSU93YjBuWTY1ck9wVHE0eFFhaXp4c1dPSzNmdnFyL1RsVkcxRURma2dnUjNtamFaK0luK1BDR2RVdlg3SFJwTEs5UDRMN1hSRlBmUTFsNUZZQUZIcjA4UTNndXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NzYwMDM2CWZpbGU6U2VyaWFsIEd1YXJkXzAuMS45X3g2NC1zZXR1cC5leGUKdW1UUXZsRmNXYWd1WS8rVzNJY3BRYytWSHRtMEtRZ3J0WnIvNk1lZDdnK1J5WUV1b1RYM3YzaGZnM2FtcUo1KzVVZmswWkZUdWFVMDRwUmZYdE5LRHc9PQo=",
       "url": "https://rendezvousp.github.io/AppSeriesMBC-updates/downloads/Serial%20Guard_latest_x64-setup.exe"
     }
   }
